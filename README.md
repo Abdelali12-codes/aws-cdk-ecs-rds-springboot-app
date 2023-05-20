@@ -1,3 +1,5 @@
+# Architecture
+![alt text](springboot.png)
 # Welcome to your CDK Java project!
 
 This is a blank project for CDK development with Java.
